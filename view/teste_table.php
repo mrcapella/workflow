@@ -21,7 +21,7 @@ $(document).ready(function() {
             <tr>
                 <th>Name</th>
                 <th>Position</th>
-                <th>OEscritório</th>
+                <th>Escritório</th>
                 <th>Age</th>
                 <th>Start date</th>
                 <th>Salary</th>
